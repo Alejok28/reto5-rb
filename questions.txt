@@ -1,0 +1,11 @@
+¿Cuál es la palabra clave para definir un método privado?
+private
+
+¿Cuál es la palabra clave para el constructor de un método?
+initialize
+
+¿Cuál es la palabra clave para iniciar un método?
+def
+
+¿Cuál es la palabra clave para iniciar una clase?
+class
