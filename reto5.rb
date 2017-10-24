@@ -15,14 +15,8 @@ class Question
   end
 end
 
-#
 txt = IO.readlines("questions.txt")
-# questions_array=[]
-# answer_array=[]
-# range = (0..txt.size)
-# range.step(3){|x| questions_array << txt[x]}
-# range2 = (1..txt.size)
-# range2.step(3){|x| answer_array << txt[x]}
+
 puts "Bienvenido a reto 5, Para jugar, solo ingresa el termino correcto para cada una de las definiciones, Listo? Vamos!"
 puts
 
